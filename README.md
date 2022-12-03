@@ -15,7 +15,7 @@
 ___
 
 ## 💻 Sobre
-Projeto de exemplo de uma WebAPI em Spring, feito e explorado na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da Dio/iFood. 
+Projeto de exemplo de uma WebAPI RESTful em Spring Java, feito e explorado na Potencia Tech Java Potencia Tech Java Beginners, bootcamp da Dio/iFood. 
 
 ## 🖋️ Contribuindo
 
